@@ -1,0 +1,53 @@
+# World Maps Data
+
+---
+
+- Land Masses
+  - Continents
+  - Islands
+- Elevation
+  - Mountains
+  - Foothills
+  - Volcanoes
+  - Hills
+- Bodies of Water
+  - Oceans
+    - Waves
+    - Coral Reefs
+  - Rivers
+  - Lakes
+  - Deltas
+  - Tributaries
+  - Waterfalls
+  - Bays
+- Swamps
+- Forests
+  - Trees
+  - Rainforests
+  - Jungles
+  - Taiga(Boreal Forests)
+- Glaciers
+- Peninsulas
+- Map Markers
+  - Compass Rose
+  - Map Art
+  - Icons
+  - Drawings
+  - Scale Markers
+  - Text
+  - Text on Banners
+  - Map Keys
+  - Map Name
+- Roads
+- Trade Routes
+- Countries
+  - Borders
+- Cities/Settlements
+  - Text
+- Landmarks
+- Wonders
+- Biomes
+  - Tundra
+  - Grassland
+  - Forest
+  - Desert
